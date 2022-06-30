@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moon</h1>
 <h3 align="center">Python developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=py-moon" alt="py-moon" /></a> </p>
-
 - 🔭 I’m currently working on **N/D**
 
 - 🌱 I’m currently learning **DATABASE**
