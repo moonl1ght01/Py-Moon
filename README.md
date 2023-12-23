@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Cyber Security**
 
-- 📫 How to reach me **danielecolucci.new@gmail.com / moonl1ght01#4779**
+- 📫 How to reach me Telegram: https://t.me/PyMoon00 / Discord: moonl1ght01#4779
 
 - ⚡ Fun fact **looking for good ui framework ( python )**
 
