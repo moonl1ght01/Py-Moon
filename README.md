@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Supabase**
+- 🌱 I’m currently learning **FLET**
 
 - 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me Telegram: https://t.me/PyMoon00 / Discord: moonl1ght01#4779
-
-- ⚡ Fun fact **looking for good ui framework ( python )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
